@@ -1,7 +1,7 @@
 #Requires -Module OktaAPI
 Import-Module OktaAPI
 
-# $token comes from Okta Admin > Security > API > Tokens > Create Token
+# $token comes from Okta Admin > Security > API > Create Token
 # see https://developer.okta.com/docs/api/getting_started/getting_a_token
 
 # Call Connect-Okta before calling Okta API functions. Replace YOUR_API_TOKEN and YOUR_ORG with your values.
